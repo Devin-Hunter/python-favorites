@@ -29,7 +29,7 @@ third_question_answer = "bee and puppycat or toph from avatar"
 """
 
 fourth_question = "What is your favorite animal?"
-fourth_question_answer = "YOUR_ANSWER_HERE"
+fourth_question_answer = "racoons! theyre just mischievious dogs with thumbs"
 
 fifth_question = "What is your favorite programming language? (Hint: You can always say Python!!)"
 fifth_question_answer = "YOUR_ANSWER_HERE"
